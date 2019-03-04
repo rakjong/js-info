@@ -1,0 +1,21 @@
+select
+update
+delete
+insert
+user
+username
+login
+loginname
+name
+jdbc
+password
+pass
+pwd
+oracle
+mysql
+config
+http:
+https:
+type: "get"
+url:
+/
