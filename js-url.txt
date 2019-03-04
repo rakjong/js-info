@@ -1,0 +1,7 @@
+https://asp.lenovo.com.cn/business_website/dev/../../personal_center/dev/static/js/jquery-1.12.1.js
+https://asp.lenovo.com.cn/business_website/dev/../../Script/global.js
+https://asp.lenovo.com.cn/business_website/dev/LoginAndRegister/js/login.js
+https://asp.lenovo.com.cn/business_website/dev/js/Login.js
+https://asp.lenovo.com.cn/business_website/dev/widget/alert/sweetalert.min.js
+https://asp.lenovo.com.cn/business_website/dev/widget/loading/loading.js
+https://asp.lenovo.com.cn/business_website/dev/static/js/handlebars-v4.0.5.js
