@@ -1,6 +1,6 @@
 # js-info
 
-
+中途而废的产物
 A python script that helps you discover front-end sensitive information！
 
 Require：
